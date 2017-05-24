@@ -8,7 +8,14 @@ Developers
 
 This software is developed and maintained by the J.C.P Laboratory.
 
+
+Licence
 --------------------------------------------
+
+Rashell-Installer (`rsh-installer`) is licensed under the GNU General Public License v3.
+
+[![gnu-gpl3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 
 Installation
 --------------------------------------------
