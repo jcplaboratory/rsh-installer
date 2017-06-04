@@ -16,3 +16,12 @@ C:\Users\cedri\Repos\rashell\rsh-installer\rsh-installer\obj\Debug\rsh_installer
 C:\Users\cedri\Repos\rashell\rsh-installer\rsh-installer\obj\Debug\rsh-installer.csproj.GenerateResource.Cache
 C:\Users\cedri\Repos\rashell\rsh-installer\rsh-installer\obj\Debug\rsh-installer.exe
 C:\Users\cedri\Repos\rashell\rsh-installer\rsh-installer\obj\Debug\rsh-installer.pdb
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\bin\Debug\rsh-installer.exe.config
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\bin\Debug\rsh-installer.exe
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\bin\Debug\rsh-installer.pdb
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh-installer.csprojResolveAssemblyReference.cache
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh_installer.Install.resources
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh_installer.Properties.Resources.resources
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh-installer.csproj.GenerateResource.Cache
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh-installer.exe
+C:\Users\cedri\Repos\rsh-installer\rsh-installer\obj\Debug\rsh-installer.pdb

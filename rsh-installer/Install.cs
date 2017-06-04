@@ -236,7 +236,7 @@ namespace rsh_installer
 
                     using (var rshCommand = Registry.ClassesRoot.OpenSubKey(@"Directory\\Background\\Shell\\Rashell\\command", true))
                     {
-                        rshCommand.SetValue("", "\"" + installdir + "\\Rashell\\bin\\rsh.exe" + "\"" + " -cev cd %v", RegistryValueKind.String);
+                        rshCommand.SetValue("", "\"" + installdir + "\\Rashell\\bin\\rsh.exe" + "\"" + " --config$DEF_WORKING_DIR=" + "\"" + "%v" + "\"", RegistryValueKind.String);
 
                         rshCommand.Close();
                     }
